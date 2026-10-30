@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Suraj-is-joy/Suraj-is-joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Joy (Suraj Salvi)**, an aspiring **Java Backend Engineer** from India.
 
-Here are some ideas to get you started:
+I enjoy building scalable backend applications, learning modern technologies, and solving real-world problems through software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- Java
+- Spring Boot
+- Spring Security
+- PostgreSQL
+- REST APIs
+- Docker
+- Kubernetes
+- Redis
+- Apache Kafka
+- Spring AI
+- System Design
+- React
+
+## Current Focus
+
+Building production-ready backend projects while improving my software engineering and problem-solving skills.
+
+## Goals
+
+- Master Java Backend Development
+- Build scalable backend systems
+- Learn Cloud & DevOps
+- Integrate AI into backend applications
+- Contribute to Open Source
+
+> *Always learning. Always building.*
